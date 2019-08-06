@@ -1,0 +1,99 @@
+2019-08-02 10:55:38,869 [__main__    ] [INFO ]  ##############  Starting process ##############
+2019-08-02 10:55:38,874 [framework.datasource.docker] [INFO ]   postgres-imm-classifiers-box docker started
+2019-08-02 10:55:38,878 [framework.datasource.docker] [INFO ]   imm-classifiers-box docker started
+2019-08-02 10:55:38,882 [framework.datasource.docker] [INFO ]   postgres-box docker started
+2019-08-02 10:55:41,078 [framework.spark.setup] [INFO ]  spark setup initialized
+2019-08-02 10:55:41,087 [__main__    ] [INFO ]  reading from cleaned.csv completed
+2019-08-02 10:55:42,016 [processors.priorityDrugs] [INFO ]  in generatePriorityDrugsInfo 
+2019-08-02 10:55:42,564 [processors.priceMatching] [INFO ]  in generateSpendInfo
+2019-08-02 10:55:53,093 [__main__    ] [INFO ]  Complete Time - 0:00:12.014855
+2019-08-02 15:08:59,186 [__main__    ] [INFO ]  ##############  Starting process ##############
+2019-08-02 15:08:59,190 [framework.datasource.docker] [INFO ]   postgres-imm-classifiers-box docker started
+2019-08-02 15:08:59,194 [framework.datasource.docker] [INFO ]   imm-classifiers-box docker started
+2019-08-02 15:08:59,198 [framework.datasource.docker] [INFO ]   postgres-box docker started
+2019-08-02 15:09:01,449 [framework.spark.setup] [INFO ]  spark setup initialized
+2019-08-02 15:09:01,457 [__main__    ] [INFO ]  reading from cleaned.csv completed
+2019-08-02 15:09:02,412 [processors.priorityDrugs] [INFO ]  in generatePriorityDrugsInfo 
+2019-08-02 15:09:02,958 [processors.priceMatching] [INFO ]  in generateSpendInfo
+2019-08-02 15:09:13,470 [__main__    ] [INFO ]  Complete Time - 0:00:12.020604
+2019-08-02 15:12:12,293 [__main__    ] [INFO ]  ##############  Starting process ##############
+2019-08-02 15:12:12,304 [framework.datasource.docker] [INFO ]   postgres-imm-classifiers-box docker started
+2019-08-02 15:12:12,308 [framework.datasource.docker] [INFO ]   imm-classifiers-box docker started
+2019-08-02 15:12:12,348 [framework.datasource.docker] [INFO ]   postgres-box docker started
+2019-08-02 15:12:15,454 [framework.spark.setup] [INFO ]  spark setup initialized
+2019-08-02 15:12:15,489 [__main__    ] [INFO ]  reading from cleaned.csv completed
+2019-08-02 15:12:16,554 [processors.priorityDrugs] [INFO ]  in generatePriorityDrugsInfo 
+2019-08-02 15:12:17,211 [processors.priceMatching] [INFO ]  in generateSpendInfo
+2019-08-02 15:12:27,724 [__main__    ] [INFO ]  Complete Time - 0:00:12.269871
+2019-08-02 15:16:46,539 [__main__    ] [INFO ]  ##############  Starting process ##############
+2019-08-02 15:16:46,595 [framework.datasource.docker] [INFO ]   postgres-imm-classifiers-box docker started
+2019-08-02 15:16:46,604 [framework.datasource.docker] [INFO ]   imm-classifiers-box docker started
+2019-08-02 15:16:46,608 [framework.datasource.docker] [INFO ]   postgres-box docker started
+2019-08-02 15:16:48,862 [framework.spark.setup] [INFO ]  spark setup initialized
+2019-08-02 15:16:48,871 [__main__    ] [INFO ]  reading from cleaned.csv completed
+2019-08-02 15:16:49,791 [processors.priorityDrugs] [INFO ]  in generatePriorityDrugsInfo 
+2019-08-02 15:16:50,349 [processors.priceMatching] [INFO ]  in generateSpendInfo
+2019-08-02 15:17:00,427 [__main__    ] [INFO ]  Complete Time - 0:00:11.565327
+2019-08-02 15:21:41,342 [__main__    ] [INFO ]  ##############  Starting process ##############
+2019-08-02 15:21:41,346 [framework.datasource.docker] [INFO ]   postgres-imm-classifiers-box docker started
+2019-08-02 15:21:41,350 [framework.datasource.docker] [INFO ]   imm-classifiers-box docker started
+2019-08-02 15:21:41,354 [framework.datasource.docker] [INFO ]   postgres-box docker started
+2019-08-02 15:21:43,894 [framework.spark.setup] [INFO ]  spark setup initialized
+2019-08-02 15:21:43,902 [__main__    ] [INFO ]  reading from cleaned.csv completed
+2019-08-02 15:21:44,825 [processors.priorityDrugs] [INFO ]  in generatePriorityDrugsInfo 
+2019-08-02 15:21:45,385 [processors.priceMatching] [INFO ]  in generateSpendInfo
+2019-08-02 15:21:55,461 [__main__    ] [INFO ]  Complete Time - 0:00:11.566694
+2019-08-02 15:41:17,681 [__main__    ] [INFO ]  ##############  Starting process ##############
+2019-08-02 15:41:17,686 [framework.datasource.docker] [INFO ]   postgres-imm-classifiers-box docker started
+2019-08-02 15:41:17,690 [framework.datasource.docker] [INFO ]   imm-classifiers-box docker started
+2019-08-02 15:41:17,694 [framework.datasource.docker] [INFO ]   postgres-box docker started
+2019-08-02 15:41:19,909 [framework.spark.setup] [INFO ]  spark setup initialized
+2019-08-02 15:41:19,917 [__main__    ] [INFO ]  reading from cleaned.csv completed
+2019-08-02 15:41:20,837 [processors.priorityDrugs] [INFO ]  in generatePriorityDrugsInfo 
+2019-08-02 15:41:21,420 [processors.priceMatching] [INFO ]  in generateSpendInfo
+2019-08-02 15:41:31,513 [__main__    ] [INFO ]  Complete Time - 0:00:11.603550
+2019-08-02 15:42:15,095 [__main__    ] [INFO ]  ##############  Starting process ##############
+2019-08-02 15:42:15,138 [framework.datasource.docker] [INFO ]   postgres-imm-classifiers-box docker started
+2019-08-02 15:42:15,146 [framework.datasource.docker] [INFO ]   imm-classifiers-box docker started
+2019-08-02 15:42:15,150 [framework.datasource.docker] [INFO ]   postgres-box docker started
+2019-08-02 15:42:17,786 [framework.spark.setup] [INFO ]  spark setup initialized
+2019-08-02 15:42:17,794 [__main__    ] [INFO ]  reading from cleaned.csv completed
+2019-08-02 15:42:18,836 [processors.priorityDrugs] [INFO ]  in generatePriorityDrugsInfo 
+2019-08-02 15:42:19,412 [processors.priceMatching] [INFO ]  in generateSpendInfo
+2019-08-02 15:42:29,734 [__main__    ] [INFO ]  Complete Time - 0:00:11.948453
+2019-08-02 15:54:14,541 [__main__    ] [INFO ]  ##############  Starting process ##############
+2019-08-02 15:54:14,546 [framework.datasource.docker] [INFO ]   postgres-imm-classifiers-box docker started
+2019-08-02 15:54:14,550 [framework.datasource.docker] [INFO ]   imm-classifiers-box docker started
+2019-08-02 15:54:14,553 [framework.datasource.docker] [INFO ]   postgres-box docker started
+2019-08-02 15:54:17,024 [framework.spark.setup] [INFO ]  spark setup initialized
+2019-08-02 15:54:17,034 [__main__    ] [INFO ]  reading from cleaned.csv completed
+2019-08-02 15:54:18,116 [processors.priorityDrugs] [INFO ]  in generatePriorityDrugsInfo 
+2019-08-02 15:54:18,711 [processors.priceMatching] [INFO ]  in generateSpendInfo
+2019-08-02 15:54:33,460 [__main__    ] [INFO ]  Complete Time - 0:00:16.436105
+2019-08-02 15:55:15,372 [__main__    ] [INFO ]  ##############  Starting process ##############
+2019-08-02 15:55:15,377 [framework.datasource.docker] [INFO ]   postgres-imm-classifiers-box docker started
+2019-08-02 15:55:15,381 [framework.datasource.docker] [INFO ]   imm-classifiers-box docker started
+2019-08-02 15:55:15,384 [framework.datasource.docker] [INFO ]   postgres-box docker started
+2019-08-02 15:55:17,918 [framework.spark.setup] [INFO ]  spark setup initialized
+2019-08-02 15:55:17,926 [__main__    ] [INFO ]  reading from cleaned.csv completed
+2019-08-02 15:55:18,894 [processors.priorityDrugs] [INFO ]  in generatePriorityDrugsInfo 
+2019-08-02 15:55:19,450 [processors.priceMatching] [INFO ]  in generateSpendInfo
+2019-08-02 15:55:35,322 [__main__    ] [INFO ]  Complete Time - 0:00:17.403651
+2019-08-02 16:00:44,900 [__main__    ] [INFO ]  ##############  Starting process ##############
+2019-08-02 16:00:44,904 [framework.datasource.docker] [INFO ]   postgres-imm-classifiers-box docker started
+2019-08-02 16:00:44,908 [framework.datasource.docker] [INFO ]   imm-classifiers-box docker started
+2019-08-02 16:00:44,912 [framework.datasource.docker] [INFO ]   postgres-box docker started
+2019-08-02 16:00:47,320 [framework.spark.setup] [INFO ]  spark setup initialized
+2019-08-02 16:00:47,329 [__main__    ] [INFO ]  reading from cleaned.csv completed
+2019-08-02 16:00:48,257 [processors.priorityDrugs] [INFO ]  in generatePriorityDrugsInfo 
+2019-08-02 16:00:48,830 [processors.priceMatching] [INFO ]  in generateSpendInfo
+2019-08-02 16:01:04,392 [__main__    ] [INFO ]  Complete Time - 0:00:17.071931
+2019-08-02 16:07:42,106 [__main__    ] [INFO ]  ##############  Starting process ##############
+2019-08-02 16:07:42,111 [framework.datasource.docker] [INFO ]   postgres-imm-classifiers-box docker started
+2019-08-02 16:07:42,115 [framework.datasource.docker] [INFO ]   imm-classifiers-box docker started
+2019-08-02 16:07:42,119 [framework.datasource.docker] [INFO ]   postgres-box docker started
+2019-08-02 16:07:44,384 [framework.spark.setup] [INFO ]  spark setup initialized
+2019-08-02 16:07:44,392 [__main__    ] [INFO ]  reading from cleaned.csv completed
+2019-08-02 16:07:45,390 [processors.priorityDrugs] [INFO ]  in generatePriorityDrugsInfo 
+2019-08-02 16:07:45,948 [processors.priceMatching] [INFO ]  in generateSpendInfo
+2019-08-02 16:08:01,501 [__main__    ] [INFO ]  Complete Time - 0:00:17.117362

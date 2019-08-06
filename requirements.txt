@@ -1,0 +1,12 @@
+#sudo apt-get install libpq-dev python-dev
+#ulimit -c unlimited
+pandas
+findspark
+xlrd
+pyspark
+docker
+sqlalchemy
+fuzzywuzzy
+python-Levenshtein
+psycopg2
+requests
